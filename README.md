@@ -1,5 +1,5 @@
 # Project HTML & CSS
 
-## Images
+## Image
 
 <img src="imagens/captura-tela.png">
